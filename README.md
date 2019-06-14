@@ -6,7 +6,7 @@ Notched Bottom Tab Bar Example using Flutter Framework
 
 Flutter tutorial explaining how to create a notched shaped bottom tab bar menu as used in many modern apps using Flutter framework by google
 
-For futher information about flutter see the links below!
+# Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://i.ibb.co/bL0xtgQ/Tab-Bar.png
+![tab bar design image](https://i.ibb.co/bL0xtgQ/Tab-Bar.png)
